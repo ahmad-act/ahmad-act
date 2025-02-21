@@ -6,9 +6,12 @@
 
 ###
 
-- 🔭 I like to **work** with on .Net, React.js, Typescript 💻. 
-- 🤝 I like to work in a **team**, I am **fearless** and **love to learn** new technology.
-- 🤔 I’m looking forward to keep practicing what I have learnt so far.
+- 🔭 I like to work with .NET, React.js, and TypeScript 💻.
+- 🤝 I like to work in a team, I am fearless, and love to learn new technologies.
+- 🤔 I’m looking forward to keep practicing what I have learned so far.
+- 🌐 I develop websites, web applications, and desktop-based applications.
+- 🏗️ I design system architectures in both Monolithic and Microservice architectures.
+- 📑 I write technical documentation, such as SRS (Software Requirements Specification) and FRS (Functional Requirements Specification).
 
 ###
 
