@@ -101,7 +101,7 @@
  
 ## ☁️ Cloud Technologies
 
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 ## 🚀 DevOps
 
@@ -121,14 +121,14 @@
 
 ## 📐 Architectural Approaches
 
+🔵	Layered Architecture (N-Tier)
 🔵	Monolithic
 🔵	Microservices
 🔵	Serverless
+🔵	Clean Architeture
 
 ## 🧩 Design Patterns
 
-🟢	Clean Architecture
-🟢	3-Tier Architecture
 🟢	MVC
 🟢	MVVM
 🟢	MVP
