@@ -101,7 +101,7 @@
  
 ## ☁️ Cloud Technologies
 
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops) [![Azure Functions](https://img.shields.io/badge/Azure_Functions-1062AD?style=for-the-badge&logo=azure-functions&logoColor=white)](https://azure.microsoft.com/en-us/products/functions/) [![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-9089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure/service-bus-messaging/) [![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-6078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure/storage/blobs/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 ## 🚀 DevOps
 
