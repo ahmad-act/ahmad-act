@@ -1,6 +1,6 @@
 # Hi 👋! I'm Ahmad
 
-**🚀 A full-stack developer, provide complete solutions for desktop-based and web-based applications, from scratch to finish, using either monolithic or microservice architecture, covering both frontend and backend development, along with all necessary technical documents.**
+**🚀 A full-stack developer, providing complete solutions for desktop-based and web-based applications, from scratch to finish, using either monolithic or microservice architecture. Expertise covers both frontend and backend development, along with the creation of all necessary technical documentation. Additionally, I integrate AI technologies to enhance application functionalities, including intelligent error handling, automated ticket creation, and more, improving overall user experience and system efficiency.**
 
 - 🔭 **Tech Enthusiast**: Love working with `.NET`, `React.js`, and `TypeScript`
 - 🤝 **Team Player**: Collaborative, fearless, and always eager to learn new technologies  
