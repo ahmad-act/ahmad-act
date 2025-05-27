@@ -8,7 +8,7 @@
 - 🌐 **Versatile Developer**: Build `websites`, `web applications`, and `desktop applications`  
 - 🏗️ **Architecture Design**: Proficient in both `Monolithic` and `Microservice` architectures  
 - 📑 **Documentation Guru**: Craft *SRS*, *FRS*, and other technical docs
-- 🤖 **AI Integration**: Leverage AI to enhance `productivity`, `efficiency`, and `maintainability`
+- 🤖 **AI Integration**: Leverage AI to enhance `productivity`, `reliability`, and `maintainability`
 
 
 ## 🛠️ Tech Stack
