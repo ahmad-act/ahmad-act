@@ -1,14 +1,14 @@
 # Hi 👋! I'm Ahmad
 
-**🚀 A full-stack developer, providing complete solutions for desktop-based and web-based applications, from scratch to finish, using either monolithic or microservice architecture. Expertise covers both frontend and backend development, along with the creation of all necessary technical documentation. Additionally, I integrate AI technologies to enhance application functionalities, including intelligent error handling, automated ticket creation, and more, improving overall user experience and system efficiency.**
+**🚀 A full-stack developer, providing complete solutions for desktop-based, web-based applications and AI-powered applications, from scratch to finish, using either monolithic or microservice or serverless architecture. Expertise covers both frontend and backend development, along with the creation of all necessary technical documentation. Additionally, I integrate AI technologies to enhance application functionalities, including intelligent error handling, automated ticket creation, and more, improving overall user experience and system efficiency.**
 
-- 🔭 **Tech Enthusiast**: Love working with `.NET`, `React.js`, and `TypeScript`
-- 🤝 **Team Player**: Collaborative, fearless, and always eager to learn new technologies  
-- 🧐 **Continuous Learner**: Focused on mastering and applying my skills  
-- 🌐 **Versatile Developer**: Build `websites`, `web applications`, and `desktop applications`  
-- 🏗️ **Architecture Design**: Proficient in both `Monolithic` and `Microservice` architectures  
+- 🔭 **Tech Enthusiast**: Love working with `.NET`, `React.js`, `TypeScript`, `Python`, and exploring both **open-source** and **commercial** AI
+- 🤝 **Team Player**: Collaborative, proactive, and always eager to learn and share knowledge  
+- 🧐 **Continuous Learner**: Committed to mastering new technologies and applying skills to solve real-world problems  
+- 🌐 **Versatile Developer**: Experienced in developing `websites`, `web applications`, `desktop applications`, and `AI-powered solutions`
+- 🏗️ **Architecture Design**: Proficient in designing and implementing `Monolithic`, `Microservice`, and `Serverless` architectures for scalable, maintainable systems  
 - 📑 **Documentation Guru**: Craft *SRS*, *FRS*, and other technical docs
-- 🤖 **AI Integration**: Leverage AI to enhance `productivity`, `reliability`, and `maintainability`
+- 🤖 AI Integrator: Proficient at leveraging AI to enhance `productivity`, `reliability`, and `maintainability`
 
 
 ## 🛠️ Tech Stack
